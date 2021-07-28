@@ -32,9 +32,9 @@ const SignUpPage = () => {
                     <input required type='email' name='email' value={form.email} onChange={onChange} placeholder='e-mail'/>
                     <input required type='password' name='password' value={form.password} onChange={onChange} placeholder='senha'/>
                     <input required name='username' value={form.username} onChange={onChange} placeholder='nome de usuário'/>
-                    <button>Login</button>
+                    <button>Cadastrar</button>
                 </form>
-                <p>Caso já passua um cadastro, acesse <a href='/'>aqui</a></p>
+                <p>Caso já passua uma conta, acesse <a href='/'>aqui</a></p>
             </CardLogin>
         </Main>
     )
