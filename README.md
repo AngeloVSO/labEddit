@@ -20,6 +20,9 @@ Desafio proposto e realizado durante bootcamp da Labenu.
 <img src="https://user-images.githubusercontent.com/70985334/127340174-db9885d9-c5c3-4ff7-bdd3-36fba29fa146.png" width="600px" alt="home"/></br></br>
 <img src="https://user-images.githubusercontent.com/70985334/127340295-b83a465f-3125-4844-a365-721f9aaec9e0.png" width="600px" alt="home"/></br></br>
 
+## Atualização:
+Houve uma alteração no backend da aplicação, para ver o projeto funcionando, acesse: https://www.linkedin.com/posts/angelo-odwyer1986_developer-javascript-reactjs-activity-6795873740426104832-RWlF
+
 ## ⛏ Tecnologias
 
 - [ReactJS](https://reactjs.org/)
